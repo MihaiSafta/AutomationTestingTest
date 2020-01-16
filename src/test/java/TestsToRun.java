@@ -10,5 +10,6 @@ StepsAndFunctions stepsAndFunctions = new StepsAndFunctions();
 //stepsAndFunctions.testIfConnected();
 //stepsAndFunctions.getWifiList();
 stepsAndFunctions.getWISPr();
+//hello
 }
 }
